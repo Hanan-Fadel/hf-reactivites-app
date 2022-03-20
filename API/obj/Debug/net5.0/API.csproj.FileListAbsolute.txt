@@ -134,3 +134,11 @@ C:\projects\DotNet\Reactivities\api\obj\Debug\net5.0\API.dll
 C:\projects\DotNet\Reactivities\api\obj\Debug\net5.0\ref\API.dll
 C:\projects\DotNet\Reactivities\api\obj\Debug\net5.0\API.pdb
 C:\projects\DotNet\Reactivities\api\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\projects\DotNet\Reactivities\Api\bin\Debug\net5.0\MediatR.dll
+C:\projects\DotNet\Reactivities\Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\projects\DotNet\Reactivities\Api\bin\Debug\net5.0\AutoMapper.dll
+C:\projects\DotNet\Reactivities\Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\projects\DotNet\Reactivities\Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\projects\DotNet\Reactivities\Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\projects\DotNet\Reactivities\Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\projects\DotNet\Reactivities\Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
